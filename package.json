@@ -1,12 +1,13 @@
 {
-  "name": "gulp-handlebars",
-  "version": "0.2.3",
-  "description": "Handlebars plugin for gulp",
+  "name": "gulp-emblem",
+  "version": "0.0.0",
+  "description": "Emblem.js plugin for gulp",
   "main": "index.js",
   "dependencies": {
     "gulp-util": "~1.2.0",
     "event-stream": "~3.0.18",
     "handlebars": "~1.1.2",
+    "emblem": "~0.3.9",
     "xtend": "~2.1.1"
   },
   "devDependencies": {
@@ -22,12 +23,13 @@
   },
   "keywords": [
     "gulpplugin",
-    "handlebars"
+    "handlebars",
+    "emblem"
   ],
-  "author": "Larry Davis <lazdnet@gmail.com>",
+  "author": "Jan Buschtöns <buschtoens@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lazd/gulp-handlebars/issues"
+    "url": "https://github.com/aulito/gulp-emblem/issues"
   },
   "engines": {
     "node" : ">=0.8"
