@@ -1,4 +1,4 @@
-# gulp-emblem [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Dependency Status][gemnasium-image]](gemnasium-url)
+# gulp-emblem [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Dependency Status][gemnasium-image]][gemnasium-url]
 > [Emblem.js][emblem-url] plugin for gulp
 > ...a concise, beautiful, and fully compatible templating alternative for Handlebars.js.
 
