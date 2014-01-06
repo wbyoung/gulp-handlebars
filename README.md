@@ -1,5 +1,5 @@
 # gulp-emblem [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
-> [Emblem.js][emblem-url] plugin for gulp
+> [Emblem.js][emblem-url] plugin for gulp 
 > ...a concise, beautiful, and fully compatible templating alternative for Handlebars.js.
 
 ## Usage
