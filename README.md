@@ -1,5 +1,5 @@
-# gulp-emblem [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
-> [Emblem.js][emblem-url] plugin for gulp 
+# gulp-emblem [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Dependency Status][gemnasium-image]](gemnasium-url)
+> [Emblem.js][emblem-url] plugin for gulp
 > ...a concise, beautiful, and fully compatible templating alternative for Handlebars.js.
 
 ## Usage
@@ -88,5 +88,7 @@ This project is a fork of [`gulp-handlebars`](https://github.com/lazd/gulp-handl
 [travis-image]: https://secure.travis-ci.org/aulito/gulp-emblem.png?branch=master
 [npm-url]: https://npmjs.org/package/gulp-emblem
 [npm-image]: https://badge.fury.io/js/gulp-emblem.png
+[gemnasium-image]: https://gemnasium.com/Aulito/gulp-emblem.png
+[gemnasium-url]: https://gemnasium.com/Aulito/gulp-emblem
 
 [emblem-url]: http://emblemjs.com/

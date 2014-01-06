@@ -2,7 +2,6 @@ var es = require('event-stream');
 var Handlebars = require('handlebars');
 var Emblem = require('emblem');
 var path = require('path');
-var gutil = require('gulp-util');
 var extend = require('xtend');
 
 // Return a declaration and namespace name for output
