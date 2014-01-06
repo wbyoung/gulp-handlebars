@@ -1,5 +1,6 @@
 var es = require('event-stream');
 var Handlebars = require('handlebars');
+var Emblem = require('emblem');
 var path = require('path');
 var gutil = require('gulp-util');
 var extend = require('xtend');
@@ -56,7 +57,7 @@ module.exports = function(options) {
 
     // Perform pre-compilation
     try {
-      var compiled = Handlebars.precompile(file.contents.toString(), options.compilerOptions);
+      var compiled = Emblem.precompile(Handlebars, file.contents.toString(), options.compilerOptions);
     }
     catch(err) {
       return callback(err, file);
