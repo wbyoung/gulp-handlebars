@@ -84,8 +84,8 @@ This project is a fork of [`gulp-handlebars`](https://github.com/lazd/gulp-handl
 [Emblem.js][emblem-url] is a concise, beautiful, and fully compatible templating alternative for Handlebars.js.
 
 
-[travis-url]: http://travis-ci.org/aulito/gulp-emblem
-[travis-image]: https://secure.travis-ci.org/aulito/gulp-emblem.png?branch=master
+[travis-url]: http://travis-ci.org/Aulito/gulp-emblem
+[travis-image]: https://secure.travis-ci.org/Aulito/gulp-emblem.png?branch=master
 [npm-url]: https://npmjs.org/package/gulp-emblem
 [npm-image]: https://badge.fury.io/js/gulp-emblem.png
 [gemnasium-image]: https://gemnasium.com/Aulito/gulp-emblem.png
